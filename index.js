@@ -6,7 +6,7 @@ const MAP_TYPE = {
   CESIUM: 2
 }
 
-class OLFiled {
+class WindFiled {
   constructor({
     olMap = null,
     cesium = null
@@ -209,4 +209,4 @@ class OLFiled {
   }
 }
 
-export default OLFiled;
+export default WindFiled;
