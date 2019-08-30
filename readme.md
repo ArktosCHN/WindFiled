@@ -129,3 +129,5 @@ let params = {
 [sakitam-fdd/wind-layer](https://github.com/sakitam-fdd/wind-layer)
 
 [RaymanNg/3D-Wind-Field](https://github.com/RaymanNg/3D-Wind-Field)
+
+[kobeCan/cesium-wind](https://github.com/kobeCan/cesium-wind)
