@@ -1,7 +1,7 @@
 ### 使用方法 (openlayers)
 
 ```javascript
-import OLFiled from ''
+import OLFiled from './index.js'
 // OLFiled 是引入的名字
 let olFiled = new OLFiled({
   olMap: map
